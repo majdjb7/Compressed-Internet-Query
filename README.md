@@ -1,6 +1,6 @@
 # Compressed-Internet-Query
 
-# PART 1: 
+# PART 2: 
 
 # Compressed-Internet-Query
 
@@ -44,7 +44,7 @@ The dictionary should remain in memory in its compressed form. Each dictionary s
   -For the product mailing list file you should call pl.prod
   
   
-## 🚀 5. For further information please open the PDF attached to the Project (Project_Requirements.pdf), it contains more detailed instructions (and images)
+## 🚀 5. For further information please open the PDF attached to the Project (Project_Requirements_Part2.pdf), it contains more detailed instructions (and images)
 
 
 -----------------------------------------------------------------------------
