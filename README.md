@@ -2,8 +2,6 @@
 
 # PART 2: 
 
-# Compressed-Internet-Query
-
 <p>
  
  
