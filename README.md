@@ -44,7 +44,7 @@ The dictionary should remain in memory in its compressed form. Each dictionary s
   -For the product mailing list file you should call pl.prod
   
   
-## 🚀 5. For further information please open the PDF attached to the Project, it contains more detailed iinstructions (and images)
+## 🚀 5. For further information please open the PDF attached to the Project (Project_Requirements.pdf), it contains more detailed instructions (and images)
 
 
 -----------------------------------------------------------------------------
